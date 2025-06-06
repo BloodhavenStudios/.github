@@ -42,4 +42,5 @@
 
 ## Stats
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/BloodhavenStudios/.github/main/github-metrics.svg)
+
