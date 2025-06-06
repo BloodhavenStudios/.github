@@ -1,46 +1,40 @@
-# Hey there, We are Bloodhaven Studios!
-
-<img src="https://komarev.com/ghpvc/?username=BloodhavenStudios&label=Profile%20views&color=0e75b6&style=flat" alt="BloodhavenStudios" />
-
-- 🔭 We are currently working on [QuartzEngine](https://github.com/BloodhavenStudios/QuartzEngine)
-- 📫 How to reach us: [discord](https://discord.gg/nGZ3pH5Rq3)
-- ⚡ Fun fact: This studio started out as a minecraft server!
-
-### Connect with us!
-<p>
-
-<a href="https://discord.gg/nGZ3pH5Rq3">
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/>
-</a>
-
-<a href="https://twitter.com/@Bloodhaven_">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-</a>
-
-<a href="https://www.instagram.com/bloodhavenstudios_/">
-<img src="https://www.svgrepo.com/show/111199/instagram.svg" alt="Instagram" width="40" height="40"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCEYEOBJ72ws3kYZBrr465-w">
-<img src="https://www.svgrepo.com/show/157839/youtube.svg" alt="YouTube" width="40" height="40"/>
-</a>
-
-<a href="https://www.tiktok.com/@bloodhavenstudios">
-<img src="https://www.svgrepo.com/show/303156/tiktok-icon-white-1-logo.svg" alt="TikTok" width="40" height="40"/>
-</a>
-
+<h1 align="center">🚀 Bloodhaven Studios</h1>
+<p align="center">
+  <img src="https://github.com/BloodhavenStudios/.github/blob/main/profile/logo.jpg" alt="Logo" />
 </p>
 
-### Languages and Tools:
-<p>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://github.com/BloodhavenStudios/QuartzEngine">💠 QuartzEngine — Current Project</a> •
+  <a href="https://discord.gg/yourdiscord">💬 Join us on Discord</a>
 </p>
 
+---
 
-## Stats
+## 🧠 About Us
 
-![Metrics](https://raw.githubusercontent.com/BloodhavenStudios/.github/main/github-metrics.svg)
+We're a team of builders, designers, and developers working on open-source tools, game engines, automation, and more. Bloodhaven started as a Minecraft server — now we’re a creative development studio pushing boundaries across software and AI.
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,django,firebase,tailwind,nodejs,react,linux,git,github" />
+</p>
+
+---
+
+## 📣 Follow & Connect
+
+<p align="center">
+  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://tiktok.com/@yourhandle"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> This studio started out as a Minecraft server, and now we build dev tools, game engines, and AI-powered systems. Stay tuned.
